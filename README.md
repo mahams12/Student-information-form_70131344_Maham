@@ -11,7 +11,7 @@ This project is a web-based Student Information Form designed to collect essenti
 - **Emergency Contact**: Collects details of an emergency contact, including their name, phone number, and relationship to the student.
 - **Additional Information**: Allows users to select multiple hobbies and leave a message.
 - **Scholarship Information**: A radio button to indicate if the user has any scholarships.
-- **Terms and Conditions**: A checkbox for users to agree to the terms before submission.
+- **Hobbies**: A checkbox for users to choose multiple checkboxes.
 - **Responsive Design**: The form is designed to be responsive and user-friendly on various devices.
 
 ### File Structure
