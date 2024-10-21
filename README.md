@@ -1,5 +1,4 @@
 # Student-information-form_70131344_Maham
-# Student Information Form
 
 This project is a web-based Student Information Form designed to collect essential personal information from students. The form includes various sections that allow users to input general details, guardian information, emergency contacts, and additional notes. 
 
